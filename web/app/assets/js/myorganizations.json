@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "name": "Patronato Deportivo de Benalmadena",
+         "branches": [
+            {
+                "id": "1",
+                "name": "Polideportivo Municipal Arroyo de la Miel",
+                "Direccion": "Calle Ciudad de Melilla",
+                "imgurl": "assets/images/polideportivomunicipalAM.png"
+            },
+            {
+                "id": "2",
+                "name": "Polideportivo Municipal Ramón Rico Benalmadena Pueblo",
+                "Direccion": "Calle Ciudad de Melilla",
+                "imgurl": "assets/images/polideportivomunicipalBP.png"
+            },
+            {
+                "id": "3",
+                "name": "Campo Municipal de Hockey el Retamar",
+                "Direccion": "Calle Ciudad de Melilla",
+                "imgurl": "assets/images/campomunicipalR.png"
+            },
+            {
+                "id": "4",
+                "name": "Club de Hielo",
+                "Direccion": "Calle Ciudad de Melilla",
+                "imgurl": "assets/images/clubdehielo.png"
+            }
+
+         ]
+    },
+    {
+        "id": "2",
+        "name": "Innova",
+        "type": "Centro Tecnológico",
+        "branches": [
+            {
+                "id": "5",
+                "name": "Vivero",
+                "Direccion": "Calle Ciudad de Melilla",
+                "imgurl": "assets/images/innova.png"
+            }
+        ]
+    }
+]

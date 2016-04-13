@@ -1,0 +1,63 @@
+.admin_menu {
+	position: fixed;
+	left:0;
+	top:200px;
+	z-index: 2000;
+}
+
+.admin_menu ul {
+	list-style: none;
+}
+
+.admin_menu ul li a {
+	display: inline-block;
+	text-decoration: none;
+	color: #fff;
+	background: #000;
+	-webkit-transition:all;
+	-o-transition:all;
+	transition:all;
+	text-align: center;
+	width: 100px;
+	padding: 10px;
+}
+.eventcalendar {
+	margin-right: 50px;
+	margin-left: 20px;
+}
+.eventcalendar h3 {
+	color: #ff0040;
+}
+.month td {
+	height: 80px;
+	width: 100px;
+	text-align: right;
+	border: #ccc 1px solid;
+}
+#onemonth {
+	margin-right: 30px;
+} 
+#titleofmonths {
+	font-size: 18px;
+	text-align: left;
+	color: red;
+}
+#onemonth tr {
+	text-align: center;
+}
+#onemonth td {
+	padding-right: 20px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 10px;
+	font-weight: bold;
+}
+#onemonth td:active{
+	background-color: red
+}
+#shortdays {
+	color: #6e6e6e;
+}
+
+
+

@@ -1,0 +1,53 @@
+# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+#
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t "hello"
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t("hello") %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# To learn more, please read the Rails Internationalization guide
+# available at http://guides.rubyonrails.org/i18n.html.
+
+en:
+  #hello: "Hello world"
+  login_user_notfound: "User not found"
+  login_multi_user: "User coincidence"
+  login_user_ok: "User found"
+  not_authenticated: "Not authenticated"
+  invalid_data: "Invalid data"
+  invalid_session: "Invalid session"
+  inactive_account: "Inactive account"
+  confirm_account_subject_mail: "Confirm your account"
+  confirm_account_title: "Confirm account"
+  confirm_account_greeting: "Apreciated"
+  confirm_account_mail_body: "Push down on the submt button to confirm your account"
+  confirm_account_farewell: "Kind regards"
+  reminder_password_subjec_mail: "Restore your password"
+  reminder_password_title: "Restore password"
+  reminder_greeting: "Appreciated"
+  reminder_mail_body: "Push down on the submit button to change your password"
+  reminder_password_farewell: "Kind regards"
+  submit_button_text: "Submit"
+  user_invalid_email: "Is not a valid email address"
+  user_too_short: "User lenght is too short"
+  user_too_long: "User lenght is too long"
+  data_not_found: "Data not found"
+  cancel_greting: "Appreciated"
+  cancel_farawell: "We apologize for any inconveniences this may have caused"
+  cancel_subject_mail: "Event has been canceled"
+  cancel_mail_body1: "Your event for "
+  cancel_mail_body2: " at "
+  cancel_mail_body3: " has been canceled."
+
+

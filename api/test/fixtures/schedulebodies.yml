@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  scheduleheader_id: 
+  time_in: 2015-08-27 09:47:08
+  time_end: 2015-08-27 09:47:08
+  su: 1
+  mo: 1
+  tu: 1
+  we: 1
+  th: 1
+  fr: 1
+  sa: 1
+
+two:
+  scheduleheader_id: 
+  time_in: 2015-08-27 09:47:08
+  time_end: 2015-08-27 09:47:08
+  su: 1
+  mo: 1
+  tu: 1
+  we: 1
+  th: 1
+  fr: 1
+  sa: 1

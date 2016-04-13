@@ -1,0 +1,9 @@
+<div>
+	<p>
+	<%= @cuerpo_mail %>
+	</p>
+	<form action=<%= @ruta_confirmar %> method="post" enctype="application/x-www-form-urlencoded">
+		<input type="hidden" name="auth_token" value= <%= @auth_token%>>
+		<input type="submit" class="boton" value= <%= @texto_boton %>>
+	</form>
+</div>

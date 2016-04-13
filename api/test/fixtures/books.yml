@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  scheduleheader_id: 
+  schedulebody_id: 
+  resource_id: 
+  user_id: 
+  bookstatus: 
+  date_ini: 2015-09-15
+  date_end: 2015-09-15
+  time_ini: 2015-09-15 17:28:45
+  time_end: 2015-09-15 17:28:45
+
+two:
+  scheduleheader_id: 
+  schedulebody_id: 
+  resource_id: 
+  user_id: 
+  bookstatus: 
+  date_ini: 2015-09-15
+  date_end: 2015-09-15
+  time_ini: 2015-09-15 17:28:45
+  time_end: 2015-09-15 17:28:45

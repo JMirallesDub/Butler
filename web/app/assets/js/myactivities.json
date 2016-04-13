@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Spinning",
+		"type": "Actividad Deportiva",
+		"branchoffice": "Club de Hielo",
+		"imgurl": "assets/images/spinning.png"
+	},
+	{
+		"name": "Suspensión Trainning",
+		"type": "Actividad Deportiva",
+		"branchoffice": "Club de Hielo",
+		"imgurl": "assets/images/trx.png"
+	},
+	{
+		"name": "Crossfit",
+		"type": "Actividad Deportiva",
+		"branchoffice": "Club de Hielo",
+		"imgurl": "assets/images/crossfit.png"
+	}
+
+]
